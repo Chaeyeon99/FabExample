@@ -1,5 +1,3 @@
-EMAIL = "example_admin@naver.com"
-PASSWORD = "SuperSecret123!"
 ACCESS_TOKEN = "ya29.a0AfH6SMB_FABEXAMPLE_ACCESS"
 REFRESH_TOKEN = "1//0gFABEXAMPLE_REFRESH"
 DB_USER = "fabadmin"
