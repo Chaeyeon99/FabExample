@@ -1,3 +1,5 @@
 email,password
-example_admin@naver.com,SuperSecret123!
+example_admin@test.com,SuperSecret123!
 dev_user@fab.com,fabpass2024
+dev_test@fabrix.com,fabpass2024
+dev_user@test.com,fabpass2024
